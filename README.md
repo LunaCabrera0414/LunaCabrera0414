@@ -1,4 +1,4 @@
-## Hi there 👋
+## HOLA 👋
 
 <!--
 **LunaCabrera0414/LunaCabrera0414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Luna Cabrera, soy estudiate del Tecnológico nacional de México de 4to grado de la carrera Ingenieria en sistemas computacionales.
+Mis materias favoritas son las que se enfocan más que nada a la programación de programas y también me gustan las que tienen que ver con calculo.
+Me gustan muchos los retos en la vida, me gusta lo difícil.
